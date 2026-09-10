@@ -1,0 +1,4 @@
+# Environment variable
+.Env
+# Vertuel environment 
+venv/
